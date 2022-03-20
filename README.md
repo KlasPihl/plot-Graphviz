@@ -1,4 +1,4 @@
-# Plots a picure on server relations
+# Create a network map
 
 With Netstat collects connections between servers and connects the dots. Exports a picture on the realtionships and ports.
 
